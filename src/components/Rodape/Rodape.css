@@ -1,0 +1,21 @@
+.rodape {
+    background-color: #6278F7;
+}
+
+.container {
+    padding: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.redes-socias {
+    display: flex;
+    gap: 20px;
+}
+
+.container p {
+    color: white;
+    font-size: 20px;
+}
